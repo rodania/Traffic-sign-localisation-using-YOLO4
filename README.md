@@ -44,4 +44,4 @@ An IoU of 1 means that the predicted and the ground-truth bounding boxes are per
 
 To calculate mAP, I used the free script of Cartucho, available at this <a href="https://github.com/Cartucho/mAP">link</a>. The final results mAP is 94.98%.
 
-detecting_video.gif
+<img src="./detecting_video.gif">
